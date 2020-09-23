@@ -1,0 +1,168 @@
+Count Lines of Code v1.2.217                              2 May 2012  03:07 PM
+
+                                PassPhrase.vbp
+                        Kenneth Ives  kenaso@tx.rr.com
+------------------------------------------------------------------------------
+
+   VBP Name:  C:\Kens Software\PassPhrase\PassPhrase.vbp
+
+Module Name:  C:\Kens Software\PassPhrase\clsKeyEdit.cls
+
+                   4  Constant variables
+                   2  Type Structures
+                   4  API Declare statements
+                  11  Sub routines
+                   2  Functions
+                 238  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                  47  Blank lines (Not Counted)
+                 379  Comment lines (Not Counted)
+          ----------
+                 261  Module lines of code
+
+Module Name:  C:\Kens Software\PassPhrase\clsPrint.cls
+
+                   4  Constant variables
+                   2  Sub routines
+                  74  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                  12  Blank lines (Not Counted)
+                  29  Comment lines (Not Counted)
+          ----------
+                  80  Module lines of code
+
+Module Name:  C:\Kens Software\PassPhrase\clsRandom.cls
+
+                  50  Constant variables
+                   3  Enum Structures
+                   1  Type Structures
+                  12  API Declare statements
+                   2  Property Let routines
+                   2  Property Get routines
+                  10  Sub routines
+                  15  Functions
+                 972  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                 190  Blank lines (Not Counted)
+               1,178  Comment lines (Not Counted)
+          ----------
+               1,063  Module lines of code
+
+Module Name:  C:\Kens Software\PassPhrase\frmMain.frm
+
+                   3  Constant variables
+                   1  API Declare statements
+                  43  Sub routines
+                 806  Miscellaneous lines of code
+                 773  Auto generated lines (Not Counted)
+                 105  Blank lines (Not Counted)
+                 271  Comment lines (Not Counted)
+          ----------
+                 853  Module lines of code
+
+Module Name:  C:\Kens Software\PassPhrase\frmSpecial.frm
+
+                   5  Sub routines
+                 121  Miscellaneous lines of code
+                 642  Auto generated lines (Not Counted)
+                  12  Blank lines (Not Counted)
+                  42  Comment lines (Not Counted)
+          ----------
+                 126  Module lines of code
+
+Module Name:  C:\Kens Software\PassPhrase\modMain.bas
+
+                  13  Constant variables
+                  13  API Declare statements
+                   7  Sub routines
+                   9  Functions
+                 291  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  65  Blank lines (Not Counted)
+                 422  Comment lines (Not Counted)
+          ----------
+                 333  Module lines of code
+
+Module Name:  C:\Kens Software\PassPhrase\modManifest.bas
+
+                  21  Constant variables
+                   2  Type Structures
+                   6  API Declare statements
+                   2  Sub routines
+                   2  Functions
+                 117  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  20  Blank lines (Not Counted)
+                 160  Comment lines (Not Counted)
+          ----------
+                 150  Module lines of code
+
+Module Name:  C:\Kens Software\PassPhrase\modMessages.bas
+
+                  12  Constant variables
+                   1  Enum Structures
+                   1  Type Structures
+                   8  API Declare statements
+                   2  Sub routines
+                   4  Functions
+                 124  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  29  Blank lines (Not Counted)
+                 259  Comment lines (Not Counted)
+          ----------
+                 152  Module lines of code
+
+Module Name:  C:\Kens Software\PassPhrase\modPassphrase.bas
+
+                   4  Constant variables
+                   1  Type Structures
+                   2  API Declare statements
+                   4  Sub routines
+                 397  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  22  Blank lines (Not Counted)
+                 286  Comment lines (Not Counted)
+          ----------
+                 408  Module lines of code
+
+Module Name:  C:\Kens Software\PassPhrase\modWheelScroll.bas
+
+                  10  Constant variables
+                   1  Type Structures
+                   8  API Declare statements
+                   3  Sub routines
+                   3  Functions
+                 118  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  29  Blank lines (Not Counted)
+                 217  Comment lines (Not Counted)
+          ----------
+                 143  Module lines of code
+
+Module Name:  C:\Kens Software\PassPhrase\modTrimStr.bas
+
+                   1  Constant variables
+                   1  Type Structures
+                   2  API Declare statements
+                   2  Functions
+                  76  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  18  Blank lines (Not Counted)
+                 135  Comment lines (Not Counted)
+          ----------
+                  82  Module lines of code
+
+          ==========
+               3,651  Total number of lines of code
+
+******************************************************************************
+NOTE:     Visual Basic trailers are not counted.  These are the
+          logical ending statements used by proceedural headings.
+
+               End Sub     End Function     End Property
+               End If      End Type         Loop
+               Next        Wend             End With
+               End Select
+******************************************************************************
+
+
